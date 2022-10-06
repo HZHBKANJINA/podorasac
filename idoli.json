@@ -1,0 +1,860 @@
+{
+    "idol1":{
+        "id":1,
+        "ime":"Ante ",
+        "prezime":"Trlin",
+        "nadimak":"Ante Trlin",
+        "godiste":"1941",
+        "mjesto":"Podorasac",
+        "opis_idola":"Prodaje rakiju ostalim idolima,ozenio se drugi put."
+    },
+    "idol2":{
+        "id":2,
+        "ime":"Ivan",
+        "prezime":"Juric",
+        "nadimak":"Civala",
+        "godiste":"1940",
+        "mjesto":"Podorasac",
+        "opis_idola":"Voli popiti koju rakiju viska cesto.Dobio sina u 56 godini zivota s ljubavnicom,pri svinjokolji pustio svinju da izadje iz svinjca jer mu je draza bila casa rakije,svinja pobjegla u sumu."
+    },
+    "idol3":{
+        "id":3,
+        "ime":"Zoran",
+        "prezime":"Zovko",
+        "nadimak":"Zorko",
+        "godiste":"1958",
+        "mjesto":"Podorasac",
+        "opis_idola":"Sjedi uvijek na istoj stolici u kaficu Porta.Voli da zna sve ko sta radi."
+    },
+    "idol4":{
+        "id":4,
+        "ime":"Andjelko",
+        "prezime":"Mikulic",
+        "nadimak":"Prinke",
+        "godiste":"1948",
+        "mjesto":"Podorasac",
+        "opis_idola":"Voli popiti koju rakiju viska,pravi grobnice u obliku slova V a ne pravokutnika,pri prodaji magareta popio za 15 minuta litar Stocka."
+    },
+    "idol5":{
+        "id":5,
+        "ime":"Pero",
+        "prezime":"Azinovic",
+        "nadimak":"Pero Konzerva",
+        "godiste":"1947",
+        "mjesto":"Kanjina",
+        "opis_idola":"Budala koja mlati zenu masama za drva zbog neposlusnosti i prica lazi po selu"
+    },
+    "idol6":{
+        "id":6,
+        "ime":"Marinko",
+        "prezime":"Azinovic",
+        "nadimak":"Role",
+        "godiste":"1949",
+        "mjesto":"Kanjina",
+        "opis_idola":"Teski alkoholicar koji pocinje piti ujutru u 4 sata.Izgubio kontakt sa svijetom,misli samo na rakiju. Nekoliko puta je bio u situaciji da dodje kuci na 4 noge,jednom presjekao cestu na biciklu ispred auta koje se jedva zaustavilo."
+    },
+    "idol7":{
+        "id":7,
+        "ime":"Fabijan",
+        "prezime":"Pavic",
+        "nadimak":"Fabijan",
+        "godiste":"1956",
+        "mjesto":"Ovcari",
+        "opis_idola":"Ostavila ga zena i djeca jer se nije trijeznio,vratio se u rodni kraj gdje je nastavio piti."
+    },
+    "idol8":{
+        "id":8,
+        "ime":"Zdravko",
+        "prezime":"Krizanovic",
+        "nadimak":"Roke",
+        "godiste":"1957",
+        "mjesto":"Ovcari",
+        "opis_idola":"Najbolji covjek na podrucju sjeverne Herceg Bosne.Brine se o HRVATIMA.Voli uzeti koju casu viska,3 puta zaglavio jednom nije mogao dovesti auto,jednom usao s njemackim ovcarom u psecu kucicu i osjetio ugriz psa,jednom vratili ga iz kafane i onda on vratio u kafanu onog tko ga je doveo do kuce."
+    },
+    "idol9":{
+        "id":9,
+        "ime":"Mladen",
+        "prezime":"Petrovic",
+        "nadimak":"Matisa jr.",
+        "godiste":"1939",
+        "mjesto":"Ovcari",
+        "opis_idola":"Bio izlozen progonu od strane balija.Pobjegao u rodni kraj.Voli glasno pricati i suprostaviti se balijama"
+    },
+    "idol10":{
+        "id":10,
+        "ime":"Darko",
+        "prezime":"Juric",
+        "nadimak":"Dare Jebac",
+        "godiste":"1964",
+        "mjesto":"Ovcari",
+        "opis_idola":"Stravstveni ribar.Ostavio zenu i dijete radi porno glumice"
+    },
+    "idol11":{
+        "id":11,
+        "ime":"Ivica",
+        "prezime":"Rajic",
+        "nadimak":"Pijano",
+        "godiste":"1960",
+        "mjesto":"Ovcari",
+        "opis_idola":""
+    },
+    "idol12":{
+        "id":12,
+        "ime":"Bruno",
+        "prezime":"Rajic",
+        "nadimak":"Bruno Rajic",
+        "godiste":"1962",
+        "mjesto":"Ovcari",
+        "opis_idola":"Nepoznat do 2019.godine.Poslje toga se vratio u rodni kraj gdje je napustio zenu.Ozenio se sa najvecom prostitutkom u selu i sa bratom Pijanom otisao u Njemacku gdje su radili orgije."
+    },
+    "idol13":{
+        "id":13,
+        "ime":"Branko",
+        "prezime":"Rajic",
+        "nadimak":"Rodjak Brane",
+        "godiste":"1957",
+        "mjesto":"Ovcari",
+        "opis_idola":"Ozenio se 2 puta,prvi put ga ostavila zena jer mu je opeglala karticu i razbila novog mercedesa s500,drugi put ozenio sado-mazo zenu od 150kg."
+    },
+    "idol14":{
+        "id":14,
+        "ime":"Branko",
+        "prezime":"Rajic",
+        "nadimak":"Prinke",
+        "godiste":"1946",
+        "mjesto":"Ovcari",
+        "opis_idola":"Seksualni ovisnik,voli da su oko njega zene."
+    },
+    "idol15":{
+        "id":15,
+        "ime":"Vlatko",
+        "prezime":"Kozaric",
+        "nadimak":"Kozara",
+        "godiste":"1953",
+        "mjesto":"Ovcari",
+        "opis_idola":"Ostavio prvu zenu radi kurve,drvosjeca i transporter,svaki balvan drva gutav ne moze se izrezati a preskup."
+    },
+    "idol16":{
+        "id":16,
+        "ime":"Vlatko",
+        "prezime":"Perkovic",
+        "nadimak":"Vlatko",
+        "godiste":"1961",
+        "mjesto":"Ovcari",
+        "opis_idola":"Sportski tip,radi sve fizicke muske i zenske poslove"
+    },
+    "idol17":{
+        "id":17,
+        "ime":"Mile",
+        "prezime":"Perkovic",
+        "nadimak":"Mico",
+        "godiste":"1964",
+        "mjesto":"Ovcari",
+        "opis_idola":"Sportski tip, radi sve poslove,kuhar"
+    },
+    "idol18":{
+        "id":18,
+        "ime":"Dalibor",
+        "prezime":"Trlin",
+        "nadimak":"Dado Trlin",
+        "godiste":"1974",
+        "mjesto":"Ovcari",
+        "opis_idola":"Pocasni pripadnik HV koji brani HRVATE od balija."
+    },
+    "idol19":{
+        "id":19,
+        "ime":"Ante",
+        "prezime":"Pranjic",
+        "nadimak":"Ante Pranjic",
+        "godiste":"1969",
+        "mjesto":"Ovcari",
+        "opis_idola":"Ozenio balinkuru i doveo je medju HRVATE,zena mu stvara incidente u selu."
+    },
+    "ido20":{
+        "id":20,
+        "ime":"Dragan",
+        "prezime":"Boras",
+        "nadimak":"Cencilo",
+        "godiste":"1965",
+        "mjesto":"Ovcari",
+        "opis_idola":"Pobjego u Ameriku od balija,voli popit koju casu rakije vise,kad popije veselje nastaje."
+    },
+    "idol21":{
+        "id":21,
+        "ime":"Vlado",
+        "prezime":"Andric",
+        "nadimak":"Vlado Ribar",
+        "godiste":"1959",
+        "mjesto":"Ovcari",
+        "opis_idola":"Najsporiji covjek u selu,ono sto drugi urade u roku od predvidjenog on radi tri puta sporije."
+    },
+    "idol22":{
+        "id":22,
+        "ime":"Zdravko",
+        "prezime":"Juric",
+        "nadimak":"Orac",
+        "godiste":"1963",
+        "mjesto":"Ovcari",
+        "opis_idola":"Planinar,kasno se ozenio,nadimak dobio jer ore njive HRVATIMA."
+    },
+    "idol23":{
+        "id":23,
+        "ime":"Marinko",
+        "prezime":"Petrovic",
+        "nadimak":"DJ Marinko",
+        "godiste":"1935",
+        "mjesto":"Ovcari",
+        "opis_idola":"Prodaje krmad,voli zezanciju i salu,popije koju rakiju viska."
+    },
+    "idol24":{
+        "id":24,
+        "ime":"Tadija",
+        "prezime":"Bozic",
+        "nadimak":"Tade Bozic",
+        "godiste":"1953",
+        "mjesto":"Ovcari",
+        "opis_idola":"Voli popiti koju rakiju viska,dobar golman u nogometu,vozac predstavnika HDZ-a."
+    },
+    "idol25":{
+        "id":25,
+        "ime":"Drazen",
+        "prezime":"Azinovic",
+        "nadimak":"Dado Vrbic",
+        "godiste":"1974",
+        "mjesto":"Vrbici",
+        "opis_idola":"Teski alkoholicar,cijelo vrijeme provodi u Spuzvama,ozenio nestabilnu osobu koju je ostavio."
+    },
+    "idol26":{
+        "id":26,
+        "ime":"Marijo",
+        "prezime":"Azinovic",
+        "nadimak":"Marijo Vrbic",
+        "godiste":"1965",
+        "mjesto":"Vrbici",
+        "opis_idola":"Teski HRVAT,ima hrabrosti da pusti domoljubne HRVATSKE pjesme pred balijama"
+    },
+    "idol27":{
+        "id":27,
+        "ime":"Nino",
+        "prezime":"Arapovic",
+        "nadimak":"Nino",
+        "godiste":"1959",
+        "mjesto":"Vrbici",
+        "opis_idola":"Osto mlad bez zene,voli popit koju rakiju viska,prilikom blagoslova polja na Zelenim Njivama pao i razbio glavu na kamen bez tezih posljedica."
+    },
+    "idol28":{
+        "id":28,
+        "ime":"Miro",
+        "prezime":"Boras",
+        "nadimak":"Brile",
+        "godiste":"1964",
+        "mjesto":"Ovcari",
+        "opis_idola":"Najjaca osoba po svemu,vrijedan radi sve poslove,voli koju rakiju viska,voli zene pogotovo u crvenom rublju,kad nadje neku potrosi svoju cijelu mirovinu na zenske usluge,hrabar da se suprostavi balijama."
+    },
+    "idol29":{
+        "id":29,
+        "ime":"Bruno",
+        "prezime":"Boras",
+        "nadimak":"Bruno Boras",
+        "godiste":"1962",
+        "mjesto":"Ovcari",
+        "opis_idola":"Ostavio zenu i dijete zbog kurve,ozenio kurvu i dobio s njom dvoje djece.Voli ribolov,lov,i koju rakiju viska,pogotovo ne moze bez Zuje."
+    },
+    "idol30":{
+        "id":30,
+        "ime":"Zdenko",
+        "prezime":"Bebek",
+        "nadimak":"Zdena Bebek",
+        "godiste":"1964",
+        "mjesto":"Tresanica",
+        "opis_idola":"Voli popiti rakiju viska svaki dan poslje posla,ozenio se ali ga zena ostavila zbog alkohola.Osigurava prava svih HRVATA."
+    },
+    "idol31":{
+        "id":31,
+        "ime":"Aleksandar",
+        "prezime":"Savcic",
+        "nadimak":"Braco Savcic",
+        "godiste":"1971",
+        "mjesto":"Tresanica",
+        "opis_idola":"Voli zene,voli koju rakiju viska,odrzava odnose izmedju HRVATA i SRBA koji su protjerani od balija."
+    },
+    "idol32":{
+        "id":32,
+        "ime":"Tihomir",
+        "prezime":"Sapina",
+        "nadimak":"Sapa",
+        "godiste":"1957",
+        "mjesto":"Tresanica",
+        "opis_idola":"Legenda HRVATA.Prevarila ga zena s drugim i odvela mu djecu.Zbog toga dobio blagi lom zivaca i poceo galamiti i smijati se glasno.U svom poslu je najbolji od svih."
+    },
+    "idol33":{
+        "id":33,
+        "ime":"Ivan",
+        "prezime":"Matic",
+        "nadimak":"Tatek Matan",
+        "godiste":"1950",
+        "mjesto":"Pleha",
+        "opis_idola":"Budala kojeg zena drzi pod kontrolom cijeli zivot.Napije ga i manipulise s njim.Teski alkoholicar ne trijezni se nikako."
+    },
+    "idol34":{
+        "id":34,
+        "ime":"Mladen",
+        "prezime":"Silic",
+        "nadimak":"Sile Zuti",
+        "godiste":"1967",
+        "mjesto":"Suhi dol",
+        "opis_idola":"Pijano,nije alkoholicar,vrijedan radi sve poslove,zena ga ostavila jer su joj drazi ljubavnici.Brine se o svojoj djeci."
+    },
+    "idol35":{
+        "id":35,
+        "ime":"Scepo",
+        "prezime":"Pavlovic",
+        "nadimak":"Pepo",
+        "godiste":"1951",
+        "mjesto":"Suhi dol",
+        "opis_idola":"Proizvodi i prodaje rakiju brlju s puno secera.Namiruje vecinu idola."
+    },
+    "idol36":{
+        "id":36,
+        "ime":"Zdravko",
+        "prezime":"Petrovic",
+        "nadimak":"Civa",
+        "godiste":"1958",
+        "mjesto":"Suhi dol",
+        "opis_idola":"Jedan od najboljih,voli ponekad popit rakiju viska,ima dobru zenu koja ga drzi pod kontrolom."
+    },
+    "idol37":{
+        "id":37,
+        "ime":"Andjelko",
+        "prezime":"Lasic",
+        "nadimak":"Bili",
+        "godiste":"1959",
+        "mjesto":"Suhi dol",
+        "opis_idola":"Ugostitelj koji u pizzeriju dovodi pijane,skrtac,nudi pice po prevelikoj cijeni."
+    },
+    "idol38":{
+        "id":38,
+        "ime":"Darko",
+        "prezime":"Simunovic",
+        "nadimak":"Dare",
+        "godiste":"1961",
+        "mjesto":"Orasje",
+        "opis_idola":"Proizvodi i prodaje rakiju jos goru brlju nego Pepo,pravi smicalice HRVATIMA i zavadja ih."
+    },
+    "idol39":{
+        "id":39,
+        "ime":"Vinko",
+        "prezime":"Pranjic",
+        "nadimak":"Zinge",
+        "godiste":"1970",
+        "mjesto":"Varda",
+        "opis_idola":"Teski alkoholicar koji se ne trijezni.Ozenio balinkuru koja od njega pravi bolesnika.Svadja se s narodom,duzan je cijeloj drzavi i narodu."
+    },
+    "idol40":{
+        "id":40,
+        "ime":"Zoran",
+        "prezime":"Delinac",
+        "nadimak":"Koke",
+        "godiste":"1960",
+        "mjesto":"Varda",
+        "opis_idola":"Budala koja je Brunu Rajica rastavila od zene,voli sjedit za istim stolom i na istoj stolici i spijunirat svoju ljubavnicu."
+    },
+    "idol41":{
+        "id":41,
+        "ime":"Zeljko",
+        "prezime":"Delinac",
+        "nadimak":"Svabo",
+        "godiste":"1969",
+        "mjesto":"Varda",
+        "opis_idola":"Jedan od najboljih,voli ponekad popit rakiju viska,voli zezanciju,pomaze HRVATIMA i suprostavlja se balijama."
+    },
+    "idol42":{
+        "id":42,
+        "ime":"Mladen",
+        "prezime":"Rados",
+        "nadimak":"Keca",
+        "godiste":"1964",
+        "mjesto":"Kolonija",
+        "opis_idola":"Drugi najbolji,pomaze HRVATIMA,suprostavlja se balijama,svaku vecer uzme rakiju viska i namiri se."
+    },
+    "idol43":{
+        "id":43,
+        "ime":"Srecko",
+        "prezime":"Petrovic",
+        "nadimak":"Srele",
+        "godiste":"1963",
+        "mjesto":"Kolonija",
+        "opis_idola":"Najbolji lijevi bek HERCEG BOSNE,skrtac,voli raditi i druziti se."
+    },
+    "idol44":{
+        "id":44,
+        "ime":"Tadija",
+        "prezime":"Rados",
+        "nadimak":"Tade",
+        "godiste":"1953",
+        "mjesto":"Kolonija",
+        "opis_idola":"Poslovan covjek,budala jer je ozenio balinkuru,skrtac."
+    },
+    "idol45":{
+        "id":45,
+        "ime":"Srecko",
+        "prezime":"Niksic",
+        "nadimak":"Srecko Niksic",
+        "godiste":"1951",
+        "mjesto":"Borovac",
+        "opis_idola":"Teski alkoholicar,ostavio zenu i dvoje djece zbog kurve i odo se alkoholu.Nova zena upravlja s njim."
+    },
+    "idol46":{
+        "id":46,
+        "ime":"Zeljko",
+        "prezime":"Niksic",
+        "nadimak":"Zelja Niksic",
+        "godiste":"1959",
+        "mjesto":"Borovac",
+        "opis_idola":"Vrhunski majstor,ziva provala i dobricina teska,rijetko popije koju rakiju viska,u Zuji uziva svaki dan."
+    },
+    "idol47":{
+        "id":47,
+        "ime":"Petar",
+        "prezime":"Niksic",
+        "nadimak":"Perica",
+        "godiste":"1959",
+        "mjesto":"Borovac",
+        "opis_idola":"Provala ziva,rijetko popije koju rakiju viska,vrhunsko lijevo krilo i biciklist."
+    },
+    "idol48":{
+        "id":48,
+        "ime":"Zeljko",
+        "prezime":"Petrovic",
+        "nadimak":"Zelja Biznis",
+        "godiste":"1957",
+        "mjesto":"Galjevo",
+        "opis_idola":"Ziva legenda,obavezno konzumira Zuju,rijetko popije koju rakiju viska,ima najbolje scene,3 puta vozio auto u zivotu i 3 puta udario,jednom na poligonu za voznju za kamione nije znao napravit polukruzno i u brdo udario,jednom umjesto blago u lijevu u uskoj krivini pravo u banderu,i jednom parkirano auto ugaseno pod rucnom i punim autom pilica ubacio u neutralnu brzinu i auto odletilo u Neretvu s pilicima."
+    },
+    "idol49":{
+        "id":49,
+        "ime":"Branko",
+        "prezime":"Petrovic",
+        "nadimak":"Brandja",
+        "godiste":"1948",
+        "mjesto":"Galjevo",
+        "opis_idola":"Voli popiti koju rakiju viska,izgleda kao pirat s kariba ali sa suncanim naocalama,provala ziva."
+    },
+    "idol50":{
+        "id":50,
+        "ime":"Ilija",
+        "prezime":"Azinovic",
+        "nadimak":"Tuntas",
+        "godiste":"1935",
+        "mjesto":"Galjevo",
+        "opis_idola":"Ziva legenda,poznat zbog zamjene rijeci hajdukovac=hajduk***c zbog cega se doveo u situaciju da izbije tuca ali se to nije dogodilo,vozi golf 2 dan danas,veliki lovac,kad lovi svinje umjesto u svinju on u drvo."
+    },
+    "idol51":{
+        "id":51,
+        "ime":"Mladen",
+        "prezime":"Petrovic",
+        "nadimak":"Rodjak Mladjo",
+        "godiste":"1955",
+        "mjesto":"Galjevo",
+        "opis_idola":"Branitelj HV i HRVATSKOG naroda.Veliki lovac,provala."
+    },
+    "idol52":{
+        "id":52,
+        "ime":"Bruno",
+        "prezime":"Petrovic",
+        "nadimak":"Bruno",
+        "godiste":"1972",
+        "mjesto":"Galjevo",
+        "opis_idola":"Voli popiti koju rakiju viska,provala."
+    },
+    "idol53":{
+        "id":53,
+        "ime":"Zeljko",
+        "prezime":"Petrovic",
+        "nadimak":"Zelja Jurin",
+        "godiste":"1975",
+        "mjesto":"Galjevo",
+        "opis_idola":"Voli popiti koju rakiju viska,provala."
+    },
+    "idol54":{
+        "id":54,
+        "ime":"Zeljko",
+        "prezime":"Petrovic",
+        "nadimak":"Zelja Repovica",
+        "godiste":"1985",
+        "mjesto":"Repovica",
+        "opis_idola":"Najsmotanija osoba u selu,nema pojma o zivotu.U 30 i nekoj ponasa se ko da mu je 2 godine."
+    },
+    "idol55":{
+        "id":55,
+        "ime":"Zdravko",
+        "prezime":"Juric",
+        "nadimak":"Zdravko",
+        "godiste":"1939",
+        "mjesto":"Repovica",
+        "opis_idola":"Vrhunski majstor,veliki HRVAT."
+    },
+    "idol56":{
+        "id":56,
+        "ime":"Tomo",
+        "prezime":"Blazevic",
+        "nadimak":"Tomo struja",
+        "godiste":"1935",
+        "mjesto":"Repovica",
+        "opis_idola":"Veliki majstor i ziva provala,u vrhunskoj nogometnoj formi s 87 godina,napadac."
+    },
+    "idol57":{
+        "id":57,
+        "ime":"Darko",
+        "prezime":"Jozic",
+        "nadimak":"Jozara",
+        "godiste":"1965",
+        "mjesto":"Pokojiste",
+        "opis_idola":"Veliki idol,voli popiti koju rakiju viska ponekad,Zuja obavezna,veliki ribar,smotan ko sajla,sto mu se rekne radi suprotno."
+    },
+    "idol58":{
+        "id":58,
+        "ime":"Marijan",
+        "prezime":"Mijic",
+        "nadimak":"Dr Mijic",
+        "godiste":"1944",
+        "mjesto":"Klis",
+        "opis_idola":"Lijecnik,svjedok ubojstava HRVATA u Trusini i klisu,branio HRVATSKE kuce,voli koju rakiju viska,veliki lovac."
+    },
+    "idol59":{
+        "id":59,
+        "ime":"Mijo",
+        "prezime":"Djopa",
+        "nadimak":"Mijo Djopa",
+        "godiste":"1963",
+        "mjesto":"Klis",
+        "opis_idola":"Veliki idol,voli uzimat tudje kuce po jeftinoj cijeni i prodavat po visokoj,voli koju rakiju viska,ostavila ga zena i djeca,izgubio kucu,sad je kod Dr Mijica."
+    },
+    "idol60":{
+        "id":60,
+        "ime":"Darko",
+        "prezime":"Drljo",
+        "nadimak":"Fratar Darko",
+        "godiste":"1975",
+        "mjesto":"Klis",
+        "opis_idola":"Fratar,voli rakiju viska."
+    },
+    "idol61":{
+        "id":61,
+        "ime":"Luka",
+        "prezime":"Filipovic",
+        "nadimak":"Luka",
+        "godiste":"1960",
+        "mjesto":"Celebici",
+        "opis_idola":"Veliki lovac,veliki ljubitelj zena i dosada."
+    },
+    "idol62":{
+        "id":62,
+        "ime":"Ivica",
+        "prezime":"Martinovic",
+        "nadimak":"Riba",
+        "godiste":"1970",
+        "mjesto":"Celebici",
+        "opis_idola":"Dosada,kockar,veliki ribar."
+    },
+    "idol63":{
+        "id":63,
+        "ime":"Josip",
+        "prezime":"Ruzic",
+        "nadimak":"Imenjak",
+        "godiste":"1957",
+        "mjesto":"Orahovica",
+        "opis_idola":"Bivsi pijano,kad se napije veselje nastaje pucanjem.Teska dobricina i veliki HRVAT."
+    },
+    "idol64":{
+        "id":64,
+        "ime":"Darko",
+        "prezime":"Andjelic",
+        "nadimak":"Darko",
+        "godiste":"1962",
+        "mjesto":"Drecelj",
+        "opis_idola":"Drzi konobu za pijane,svaku vecer vecina idola ide kod njega,srijedom pece 36 pilica od 2 kile i prodaje,dio se pojede u konobi i logicno idoli se napiju."
+    },
+    "idol65":{
+        "id":65,
+        "ime":"Vlado",
+        "prezime":"Andjelic",
+        "nadimak":"Vlado Andjelic",
+        "godiste":"1959",
+        "mjesto":"Drecelj",
+        "opis_idola":"Dobar covjek,velika provala."
+    },
+    "idol66":{
+        "id":66,
+        "ime":"Davorin",
+        "prezime":"Filipovic",
+        "nadimak":"Davor Filipovic",
+        "godiste":"1952",
+        "mjesto":"Drecelj",
+        "opis_idola":"Veliki idol,pijano,voli popiti,prilikom jednog pecenja rakije kad je ulazio u auto umjesto u auto sjeo na travu."
+    },
+    "idol67":{
+        "id":67,
+        "ime":"Vido",
+        "prezime":"Culjak",
+        "nadimak":"Vido Culjak",
+        "godiste":"1958",
+        "mjesto":"Zabrdje",
+        "opis_idola":"Policajac,skrtac,zbog svog rada dobio pjesmu 'Brko brkane moj omiljeni krkane'."
+    },
+    "idol68":{
+        "id":68,
+        "ime":"Ilko",
+        "prezime":"Zelenika",
+        "nadimak":"Ilko Zelenika",
+        "godiste":"1949",
+        "mjesto":"Zabrdje",
+        "opis_idola":"Zenskaros,ostavila ga zena,naso drugu."
+    },
+    "idol69":{
+        "id":69,
+        "ime":"Ilija",
+        "prezime":"Culjak",
+        "nadimak":"Ilija Culjak",
+        "godiste":"1929",
+        "mjesto":"Zabrdje",
+        "opis_idola":"Veliki covjek,spasio i primio veliki broj HRVATA koji su protjerani od balija."
+    },
+    "idol70":{
+        "id":70,
+        "ime":"Pavo",
+        "prezime":"Simunovic",
+        "nadimak":"Pajo",
+        "godiste":"1956",
+        "mjesto":"Turija",
+        "opis_idola":"Teski alkoholicar,nasilnik,izdajnik HRVATSKOG naroda,izlaze HRVATE jer ih izdaje balijama,rastavljen,izbacio zenu i djecu iz kuce zbog kurve."
+    },
+    "idol71":{
+        "id":71,
+        "ime":"Zeljko",
+        "prezime":"Pehar",
+        "nadimak":"Zekaca",
+        "godiste":"1973",
+        "mjesto":"Turija",
+        "opis_idola":"Veliki idol,seljak,grmalj,vrijedan,dobricina,ozenio balinkuru koja je psihicki bolesnik,brine se o HRVATIMA,zapustan,vozi krntije."
+    },
+    "idol72":{
+        "id":72,
+        "ime":"Zeljko",
+        "prezime":"Milicevic",
+        "nadimak":"Zelja Slikar",
+        "godiste":"1957",
+        "mjesto":"Tuscica",
+        "opis_idola":"Teski alkoholicar,preko 2 litra Zuje dnevno plus rakija."
+    },
+    "idol73":{
+        "id":73,
+        "ime":"Zeljko",
+        "prezime":"Simic",
+        "nadimak":"Zelja Simic",
+        "godiste":"1956",
+        "mjesto":"Bijela",
+        "opis_idola":"Teski alkoholicar,ne trijezni se nikako."
+    },
+    "idol74":{
+        "id":74,
+        "ime":"Bruno",
+        "prezime":"Simic",
+        "nadimak":"Foks",
+        "godiste":"1967",
+        "mjesto":"Bijela",
+        "opis_idola":"Dobricina,kladionicar,voli ponekad popiti rakiju i pivu,vrijedan,radi sve poslove."
+    },
+    "idol75":{
+        "id":75,
+        "ime":"Dragan",
+        "prezime":"Pekic",
+        "nadimak":"Pilicar",
+        "godiste":"1973",
+        "mjesto":"Bijela",
+        "opis_idola":"Dobar golman,mlad,prodaje pilice,ima 16 krava,zena ga vara s balijama,kcer mu izdala HRVATE."
+    },
+    "idol76":{
+        "id":76,
+        "ime":"Zdravko",
+        "prezime":"Simic",
+        "nadimak":"Mara",
+        "godiste":"1962",
+        "mjesto":"Bijela",
+        "opis_idola":"Teski alkoholicar,vozi golf2 GTI."
+    },
+    "idol77":{
+        "id":7,
+        "ime":"Sasa",
+        "prezime":"Simunovic",
+        "nadimak":"Sasa Lajsna",
+        "godiste":"1972",
+        "mjesto":"Bijela",
+        "opis_idola":"Postavlja parket i laminat,galami previse i veseljak kad popije."
+    },
+    "idol78":{
+        "id":78,
+        "ime":"Zelimir",
+        "prezime":"Simic",
+        "nadimak":"Sisko",
+        "godiste":"1965",
+        "mjesto":"Bijela",
+        "opis_idola":"Velikan uvoza auta,veseljak kad popije,svako auto duplo skuplje koje proda,ziva provala."
+    },
+    "idol79":{
+        "id":79,
+        "ime":"Nikica",
+        "prezime":"Juric",
+        "nadimak":"Nikica",
+        "godiste":"1969",
+        "mjesto":"Josanica",
+        "opis_idola":"Vrijedni covjek,teski HRVAT,pripadnik HVIDRA-e,bavi se poljoprivredom,galamdzija,popije viska rakiju ponekad,Zuju uvijek."
+    },
+    "idol80":{
+        "id":80,
+        "ime":"Ilija",
+        "prezime":"Antunovic",
+        "nadimak":"Ilija Antunovic",
+        "godiste":"1948",
+        "mjesto":"Josanica",
+        "opis_idola":"Posten covjek,zena i djeca u Zagrebu,on u Josanici."
+    },
+    "idol81":{
+        "id":81,
+        "ime":"Ilija",
+        "prezime":"Markovic",
+        "nadimak":"Braca Markovic",
+        "godiste":"1960",
+        "mjesto":"Bijela",
+        "opis_idola":"Majstor dobar,preskup,dosadan ko proljev."
+    },
+    "idol82":{
+        "id":82,
+        "ime":"Dinko",
+        "prezime":"Sekerija",
+        "nadimak":"Dinko",
+        "godiste":"1983",
+        "mjesto":"Bijela",
+        "opis_idola":"Alfa i omega svih HRVATA u HERCEG BOSNI."
+    },
+    "idol83":{
+        "id":83,
+        "ime":"Zdravko",
+        "prezime":"Pranjic",
+        "nadimak":"Braco Pranjic",
+        "godiste":"1946",
+        "mjesto":"Zupa",
+        "opis_idola":"Veliki covjek,bivsi pijano,dobar stolar,vrijedan u svim poslovima."
+    },
+    "idol84":{
+        "id":84,
+        "ime":"Rajko",
+        "prezime":"Andric",
+        "nadimak":"Rajko",
+        "godiste":"1955",
+        "mjesto":"Spiljani",
+        "opis_idola":"Teski alkoholicar,iz grada se vratio na selo."
+    },
+    "idol85":{
+        "id":85,
+        "ime":"Ivica",
+        "prezime":"Spajic",
+        "nadimak":"Spajke",
+        "godiste":"1960",
+        "mjesto":"Puhale",
+        "opis_idola":"Dosadan ko proljev."
+    },
+    "idol86":{
+        "id":86,
+        "ime":"Milenko",
+        "prezime":"Mirjanic",
+        "nadimak":"Doja",
+        "godiste":"1957",
+        "mjesto":"Puhale",
+        "opis_idola":"Veliki covjek,prodaje duhan,pijano,dnevna doza 50 piva."
+    },
+    "idol87":{
+        "id":87,
+        "ime":"Vilko",
+        "prezime":"Rajic",
+        "nadimak":"Vilko",
+        "godiste":"1952",
+        "mjesto":"Dubravice",
+        "opis_idola":"Sjedi svaki dan na istom mjestu i iskuplja HRVATE."
+    },
+    "idol88":{
+        "id":88,
+        "ime":"Josip",
+        "prezime":"Zovko",
+        "nadimak":"Josip Zovko",
+        "godiste":"1964",
+        "mjesto":"Bradina",
+        "opis_idola":"Legenda Bradine,provala ziva,dosadan."
+    },
+    "idol89":{
+        "id":89,
+        "ime":"Darko",
+        "prezime":"Grubesic",
+        "nadimak":"Dare Komunalac",
+        "godiste":"1975",
+        "mjesto":"Zukici",
+        "opis_idola":"Malo zaosto za svijetom u razvoju,voli popiti koju rakiju viska,smecar."
+    },
+    "idol90":{
+        "id":90,
+        "ime":"Zoran",
+        "prezime":"Baric",
+        "nadimak":"Lisa",
+        "godiste":"1956",
+        "mjesto":"Kanjina",
+        "opis_idola":"Vrijedan radnik,dobar covjek,posten,pedantan,zivac,najbolji vozac od svih."
+    },
+    "idol91":{
+        "id":91,
+        "ime":"Drago",
+        "prezime":"Raspudic",
+        "nadimak":"Drago",
+        "godiste":"1947",
+        "mjesto":"Kanjina",
+        "opis_idola":"Dobricina,senilan,provala ziva,dobar nogometas,voli da se pita u svemu."
+    },
+    "idol92":{
+        "id":92,
+        "ime":"Zdenko",
+        "prezime":"Raspudic",
+        "nadimak":"Zdena",
+        "godiste":"1966",
+        "mjesto":"Kanjina",
+        "opis_idola":"Teski alkoholicar,debel 157 kg,vrhunski golman,poso na rakiju preko pogresnog mosta,umjesto betonskog koristio propali drveni most od pragova,upo izmedju 2 praga u rijeku i slomio pola rebara."
+    },
+    "idol93":{
+        "id":93,
+        "ime":"Ivica",
+        "prezime":"Baric",
+        "nadimak":"Siko",
+        "godiste":"1959",
+        "mjesto":"Kanjina",
+        "opis_idola":"Postavlja sve informacije iz sela na Facebook,kockar,ponekad popije rakiju,dobricina,postenjacina,vrijedan."
+    },
+    "idol94":{
+        "id":94,
+        "ime":"Ivan",
+        "prezime":"Livaja",
+        "nadimak":"Levi",
+        "godiste":"1962",
+        "mjesto":"Klis",
+        "opis_idola":"Dobricina,dosadan,kad popije uvrijedi ljude,zivac."
+    },
+    "idol95":{
+        "id":95,
+        "ime":"Zdravko",
+        "prezime":"Krezic",
+        "nadimak":"Krezic",
+        "godiste":"1950",
+        "mjesto":"Tresanica",
+        "opis_idola":"Zna sve informacije,dosadan,znatizeljan."
+    }
+    
+    
+ 
+ }
